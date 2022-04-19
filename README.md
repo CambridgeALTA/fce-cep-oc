@@ -1,4 +1,4 @@
-# The FCE-CEP Open Cloze Test datatet
+# The FCE-CEP Open Cloze Test dataset
 
 This repository contains the dataset described in: 
 
