@@ -40,6 +40,10 @@ Human judgements consist of the following two attributes per gap:
 
 The order of the tasks is preserved across all files.
 
+## Licence
+
+This dataset is free to use for research purposes under the terms of the accompanying licence.
+
 ## Contact
 
 If you have any questions, suggestions or bug reports, please contact the authors:
